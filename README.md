@@ -1,11 +1,11 @@
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-# Thiago Marinho
+# Marcio Willian
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou um FullStack Developer em crescimento constante :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Pulse**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando VueJS e em breve React também
