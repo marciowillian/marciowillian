@@ -28,5 +28,5 @@ Sou um Programador em inicio de carreira :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando VueJS e em breve React também
  <br/> :computer: &nbsp; Minha stack: VueJS, Java, Spring
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, PUBG e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/marcio-willian-a4b62b106/)
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge]https://www.linkedin.com/in/marcio-willian-a4b62b106/
  <br /> :outlook: (willian_mw.cc@hotmail.com)
