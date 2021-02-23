@@ -1,19 +1,17 @@
-<!--
-**marciowillian/marciowillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
 
-# Marcio Willian
+# Thiago Marinho
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Programador em inicio de carreira :computer:
+Sou um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Pulse**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando VueJS e em breve React também
- <br/> :computer: &nbsp; Minha stack: VueJS, Java, Spring
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, PUBG e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge]https://www.linkedin.com/in/marcio-willian-a4b62b106/
- <br /> :outlook: (willian_mw.cc@hotmail.com)
- 
+ :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
