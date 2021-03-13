@@ -11,4 +11,4 @@ Sou um FullStack Developer em crescimento constante :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando VueJS e em breve React também
  <br/> :computer: &nbsp; Minha stack: JavaScript, Java, Spring, VueJS, Vuetify, SQL, SQLServer, PostgreSQL, Firebase
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games Valorant, ArteSuave.. BJJ pros íntimos rs, Musculação, Seriados no Netflix.. e é isso!!!
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://www.linkedin.com/in/marcio-willian-a4b62b106/)]
+ <br/> : Entre em contato comigo: willian_mw.cc@hotmail.com
